@@ -66,3 +66,70 @@ Por padrão , o servidor web Apache é instruído a usar conexão vinculada na p
 
 
 
+
+
+# Boleto só existe no Brasil. Verdade ? Será que algum outro país usa ?
+
+
+
+- Verdade!! Brasil é o único país que usa boleto bancário na forma de pagamento.
+
+
+
+# Débito é uma invenção brasileira? 
+
+
+
+
+
+
+
+# Os sites hoje em dia usam mais sistema próprios de pagamento ou terceirizados? 
+
+
+
+
+
+
+
+# Qual é o mais buscado no google site, aplicativo ou programa de computador ?
+
+
+
+- Sites. 
+- Pelo google trend mostra que sites é mais buscado doque aplicativo e programas de computador .
+
+
+
+# Tente encontrar, na internet, como se dá o acesso aos web-services dos correios e do governo para, por exemplo, buscar os dados de um cep e os dados sobre os estudantes do Brasil, respectivamente ? 
+
+
+
+
+
+# Tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grandes empresas (Google, Facebook, Apple, Microsoft, etc...)
+
+
+
+
+
+# Alguma das principais Linguagens de programação !
+
+ 
+
+- **HTML** , 	**CSS** ,	 **JAVASCRIPT(jQUERY, AJAX, diversas libs)**, 	**PHP, 	.NET, 	ASP, 	JAVA**,	**RUBY(On Rails), 	Python,	Perl,	C/C++/C# ** 
+
+
+
+# Pesquise um pouco sobre Apache, MySQL e PHP.
+
+
+
+Enquanto o Linux é o sistema operacional que executa as operações, o **Apache** é o software que processa as solicitações via HTTP. O **MySQL** é um banco de dados, que armazena todas as informações processadas em um formato inteligível e o **PHP** é a linguagem de programação que cria conteúdos dinâmicos.
+
+
+
+
+
+
+
