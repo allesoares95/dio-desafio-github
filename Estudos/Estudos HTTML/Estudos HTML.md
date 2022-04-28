@@ -96,3 +96,5 @@ O <alt> não é obrigatório mas é altamente recomendado por melhorar a acessib
 Para ajudar pode usar o site http://tinypng.com para modificar as imagens para que eles otimize a imagem  e você ganhe mais espaço.
 
 Pode usar a tag **target="_blank"** para o link abrir em uma nova aba.
+
+Usar **ul** ou **ol** " ul para lista com ponto e ol para lista ordenarias"
